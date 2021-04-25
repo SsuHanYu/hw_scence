@@ -6,5 +6,7 @@
 ### 簡單的水面shader和火焰shader
 ### 箱子陷阱觸發(暈倒動畫)
 
-###![Image](未命名-1.gif)
+### ![Image](test/Assets/gif/1.gif)
+
+### ![Image](test/Assets/gif/2.gif)
  
